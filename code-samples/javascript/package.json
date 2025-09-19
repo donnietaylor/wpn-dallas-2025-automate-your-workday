@@ -1,0 +1,38 @@
+{
+  "name": "ai-automation-samples",
+  "version": "1.0.0",
+  "description": "AI automation code samples for WorkPlace Ninja 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ai-text-summarizer.js",
+    "dev": "nodemon ai-text-summarizer.js",
+    "lint": "eslint *.js",
+    "format": "prettier --write *.js"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "openai",
+    "workplace",
+    "productivity"
+  ],
+  "author": "WorkPlace Ninja US 2025",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^3.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
