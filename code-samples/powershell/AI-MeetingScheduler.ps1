@@ -356,6 +356,3 @@ Friday: Sprint planning 11 AM-12 PM, No meetings after 3 PM
 if ($MyInvocation.InvocationName -ne '.') {
     Main
 }
-
-# Export class for module use
-Export-ModuleMember -Function @() -Variable @() 2>$null
