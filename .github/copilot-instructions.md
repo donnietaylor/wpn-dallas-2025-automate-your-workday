@@ -9,7 +9,7 @@ This is the "Automate Your Workday with AI" repository for the WorkPlace Ninja U
 ## Project Structure
 
 - `demos/` - Live demonstration code and scripts
-- `code-samples/` - Reusable code snippets and examples (Python, JavaScript, n8n workflows)
+- `code-samples/` - Reusable code snippets and examples (Python, JavaScript, PowerShell, n8n workflows)
 - `docs/` - Detailed documentation and guides
 - `resources/` - External links, tools, and references
 
@@ -36,6 +36,21 @@ This is the "Automate Your Workday with AI" repository for the WorkPlace Ninja U
 - Use CommonJS (`require`) for Node.js examples unless specified otherwise
 - Include JSDoc comments for functions
 - Use `dotenv` for environment variable management
+
+### PowerShell Code
+
+- **Use PowerShell 7+ (`pwsh`) instead of Windows PowerShell 5.1 (`powershell`)**
+  - PowerShell 7+ provides cross-platform support, modern .NET runtime, and better REST API handling
+  - Use the shebang `#!/usr/bin/env pwsh` for scripts
+  - Include `#Requires -Version 7.0` directive
+- Follow PowerShell naming conventions (Verb-Noun for functions, PascalCase)
+- Use approved verbs from `Get-Verb` for function names
+- Include comment-based help (`.SYNOPSIS`, `.DESCRIPTION`, `.PARAMETER`, `.EXAMPLE`)
+- Use `Invoke-RestMethod` for REST API calls (not `Invoke-WebRequest`)
+- Load environment variables from `.env` files using custom function or module
+- Use `[CmdletBinding()]` for advanced functions
+- Prefer splatting for cmdlet parameters with many arguments
+- Use `$ErrorActionPreference = 'Stop'` for strict error handling when appropriate
 
 ### API Integration
 
