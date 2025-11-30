@@ -1,60 +1,27 @@
 # Code Samples
 
-This folder contains reusable code snippets and examples that you can adapt for your own automation projects.
+Reusable code snippets and examples for AI automation projects.
 
-## Categories
+## Structure
 
-### AI Integration
-- API client examples
-- Authentication helpers
-- Common AI service integrations
-
-### Automation Scripts
-- File processing automation
-- Email automation
-- Calendar and scheduling
-- Data synchronization
-
-### n8n Workflows
-- [n8n Workflows](n8n/) - Exported n8n workflow JSON files
-- [Daily Handoff Project](n8n/daily-handoff/) - Automated daily team handoff workflow
-
-### Utilities
-- Configuration management
-- Logging and monitoring
-- Error handling patterns
-- Testing utilities
+```
+├── python/           # Python examples
+│   └── ai_email_classifier.py
+├── javascript/       # JavaScript examples
+│   └── ai-text-summarizer.js
+└── n8n/              # n8n workflow JSON files
+    └── daily-handoff/
+```
 
 ## Languages & Platforms
 
-Code samples are provided in multiple languages and platforms:
-- **Python**: Most comprehensive examples - [Browse Python samples](python/)
-- **JavaScript/Node.js**: Web and server automation - [Browse JavaScript samples](javascript/)
-- **n8n**: Visual workflow automation - [Browse n8n workflows](n8n/)
-- **PowerShell**: Windows-specific automation (coming soon)
-- **Bash**: Unix/Linux shell scripts (coming soon)
+- **Python**: AI integration examples - [Browse](python/)
+- **JavaScript/Node.js**: Web automation - [Browse](javascript/)
+- **n8n**: Visual workflow automation - [Browse](n8n/)
 
 ## Usage
 
-1. Browse the relevant category folder
-2. Copy the code snippet to your project
-3. Modify the configuration and parameters
-4. Install required dependencies
-5. Test in your environment
-
-## Code Structure
-
-Each code sample includes:
-- Clear documentation and comments
-- Configuration examples
-- Error handling
-- Usage examples
-- Dependencies list
-
-## Contributing
-
-Feel free to contribute your own code samples! Please ensure they:
-- Are well-documented
-- Include usage examples
-- Follow the existing structure
-- Are tested and working
+1. Browse the relevant folder
+2. Copy the code to your project
+3. Install dependencies
+4. Configure and test

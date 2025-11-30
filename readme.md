@@ -11,10 +11,17 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 ## 📁 Repository Structure
 
 ```
-├── demos/              # Live demonstration code and scripts
-├── code-samples/       # Reusable code snippets and examples
-├── notes/              # Session notes and additional resources
-├── docs/               # Detailed documentation and guides
+├── demos/                    # Live demo apps
+│   ├── boss-request-buster/  # GitHub Spark app (single prompt)
+│   └── azure-boss-request-buster/  # GitHub Spark app (iterated)
+├── code-samples/             # Reusable code snippets
+│   ├── python/               # Python examples
+│   ├── javascript/           # JavaScript examples
+│   └── n8n/                  # n8n workflow JSON files
+└── docs/                     # Documentation and guides
+    ├── openai-quickstart/    # OpenAI API setup
+    ├── n8n-setup/            # n8n installation and config
+    └── github-copilot/       # Copilot repository instructions
 ```
 
 ## 🚀 Getting Started
