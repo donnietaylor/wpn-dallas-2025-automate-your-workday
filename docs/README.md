@@ -4,24 +4,35 @@ This folder contains detailed documentation and guides for implementing AI autom
 
 ## Documentation Structure
 
-### Getting Started
-- `setup-guide.md`: Initial setup and configuration
-- `quick-start.md`: 15-minute automation setup
-- `prerequisites.md`: Required tools and services
+### [OpenAI Quickstart](openai-quickstart/)
 
-### Technical Guides
+Get started with OpenAI API integration:
+
+- [Quick Start Guide](openai-quickstart/quick-start.md) - 15-minute automation setup
+- [Setup Guide](openai-quickstart/setup-guide.md) - Initial setup and configuration
+- [Code Samples](../code-samples/) - Working code examples
+
+### [n8n Setup](n8n-setup/)
+
+Install and configure n8n for workflow automation:
+
+- [Installation Guide](n8n-setup/installation.md) - Install n8n locally
+- [Configuration Guide](n8n-setup/configuration.md) - Configure n8n for your needs
+- [n8n Workflows](../code-samples/n8n/) - n8n workflow examples
+
+### Technical Guides (Coming Soon)
 - `api-integration.md`: Working with AI APIs
 - `security-best-practices.md`: Keeping your automation secure
 - `error-handling.md`: Robust error handling patterns
 - `monitoring.md`: Tracking and logging automation
 
-### Implementation Patterns
+### Implementation Patterns (Coming Soon)
 - `workflow-automation.md`: Common workflow patterns
 - `data-processing.md`: Automated data handling
 - `notification-systems.md`: Alert and notification automation
 - `integration-patterns.md`: Connecting different systems
 
-### Advanced Topics
+### Advanced Topics (Coming Soon)
 - `scaling-automation.md`: Growing your automation platform
 - `custom-models.md`: Training and using custom AI models
 - `enterprise-deployment.md`: Large-scale deployment considerations

@@ -15,19 +15,24 @@ This folder contains reusable code snippets and examples that you can adapt for 
 - Calendar and scheduling
 - Data synchronization
 
+### n8n Workflows
+- [n8n Workflows](n8n/) - Exported n8n workflow JSON files
+- [Daily Handoff Project](n8n/daily-handoff/) - Automated daily team handoff workflow
+
 ### Utilities
 - Configuration management
 - Logging and monitoring
 - Error handling patterns
 - Testing utilities
 
-## Languages
+## Languages & Platforms
 
-Code samples are provided in multiple languages:
-- **Python**: Most comprehensive examples
-- **JavaScript/Node.js**: Web and server automation
-- **PowerShell**: Windows-specific automation
-- **Bash**: Unix/Linux shell scripts
+Code samples are provided in multiple languages and platforms:
+- **Python**: Most comprehensive examples - [Browse Python samples](python/)
+- **JavaScript/Node.js**: Web and server automation - [Browse JavaScript samples](javascript/)
+- **n8n**: Visual workflow automation - [Browse n8n workflows](n8n/)
+- **PowerShell**: Windows-specific automation (coming soon)
+- **Bash**: Unix/Linux shell scripts (coming soon)
 
 ## Usage
 
