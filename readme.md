@@ -57,12 +57,12 @@ This is a conference session repository. Feel free to:
 ### Session Presenters
 
 **Donnie Taylor**
-- LinkedIn: [linkedin.com/in/donnietaylor](https://www.linkedin.com/in/donnietaylor/)
-- GitHub: [github.com/donnietaylor](https://github.com/donnietaylor)
+- [LinkedIn](https://www.linkedin.com/in/donnietaylor/)
+- [GitHub](https://github.com/donnietaylor)
 
 **Frank Lesniak**
-- LinkedIn: [linkedin.com/in/flesniak](https://www.linkedin.com/in/flesniak/)
-- GitHub: [github.com/franklesniak](https://github.com/franklesniak)
+- [LinkedIn](https://www.linkedin.com/in/flesniak/)
+- [GitHub](https://github.com/franklesniak)
 
 For questions about this session or the code samples, please reach out through the conference platform or create an issue in this repository.
 
