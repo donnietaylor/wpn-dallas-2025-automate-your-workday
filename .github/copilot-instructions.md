@@ -40,9 +40,6 @@ This is the "Automate Your Workday with AI" repository for the WorkPlace Ninja U
 ### PowerShell Code
 
 - **Use PowerShell 7+ (`pwsh`) instead of Windows PowerShell 5.1 (`powershell`)**
-  - PowerShell 7+ provides cross-platform support, modern .NET runtime, and better REST API handling
-  - Use the shebang `#!/usr/bin/env pwsh` for scripts
-  - Include `#Requires -Version 7.0` directive
 - Follow PowerShell naming conventions (Verb-Noun for functions, PascalCase)
 - Use approved verbs from `Get-Verb` for function names
 - Include comment-based help (`.SYNOPSIS`, `.DESCRIPTION`, `.PARAMETER`, `.EXAMPLE`)
