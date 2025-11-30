@@ -20,6 +20,13 @@ Install and configure n8n for workflow automation:
 - [Configuration Guide](n8n-setup/configuration.md) - Configure n8n for your needs
 - [n8n Workflows](../code-samples/n8n/) - n8n workflow examples
 
+### [GitHub Copilot](github-copilot/)
+
+Configure GitHub Copilot for your projects:
+
+- [Repository Instructions Guide](github-copilot/repository-instructions.md) - Add custom instructions to improve Copilot suggestions
+- [Sample Instructions](../.github/copilot-instructions.md) - Working example from this repository
+
 ### Technical Guides (Coming Soon)
 - `api-integration.md`: Working with AI APIs
 - `security-best-practices.md`: Keeping your automation secure
