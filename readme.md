@@ -4,11 +4,11 @@
 
 Welcome to the repository for the "Automate Your Workday with AI" session at WorkPlace Ninja US 2025 in Dallas! This repository contains code samples, demos, notes, and resources to help you implement AI automation in your daily work.
 
-## 🎯 Session Overview
+## Session Overview
 
 Learn how to leverage AI tools and automation to streamline your daily workflows, increase productivity, and reduce repetitive tasks. This session covers practical implementations using various AI services and automation platforms.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── demos/                    # Live demo apps
@@ -24,20 +24,20 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
     └── github-copilot/       # Copilot repository instructions
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository
 2. Explore the different folders based on your interests
 3. Follow the setup instructions in each demo folder
 4. Adapt the code samples to your specific use cases
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Basic understanding of automation concepts
 - Familiarity with at least one programming language (Python, JavaScript, PowerShell, etc.)
 - Access to AI services (OpenAI, Azure AI, etc.) for hands-on practice
 
-## 📝 What You'll Learn
+## What You'll Learn
 
 - How to identify automation opportunities in your workflow
 - Practical AI integration techniques
@@ -45,18 +45,18 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 - Connecting AI services to your existing tools
 - Best practices for AI-powered automation
 
-## 🤝 Contributing
+## Contributing
 
 This is a conference session repository. Feel free to:
 - Submit issues for questions or suggestions
 - Share your own automation examples
 - Improve existing code samples
 
-## 📞 Contact
+## Contact
 
 For questions about this session or the code samples, please reach out through the conference platform or create an issue in this repository.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
