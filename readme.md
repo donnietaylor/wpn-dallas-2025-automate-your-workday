@@ -54,6 +54,16 @@ This is a conference session repository. Feel free to:
 
 ## Contact
 
+### Session Presenters
+
+**Donnie Taylor**
+- [LinkedIn](https://www.linkedin.com/in/donnietaylor/)
+- [GitHub](https://github.com/donnietaylor)
+
+**Frank Lesniak**
+- [LinkedIn](https://www.linkedin.com/in/flesniak/)
+- [GitHub](https://github.com/franklesniak)
+
 For questions about this session or the code samples, please reach out through the conference platform or create an issue in this repository.
 
 ## License
