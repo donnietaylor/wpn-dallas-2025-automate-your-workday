@@ -8,14 +8,28 @@ The Daily Handoff workflow automates the process of creating and sharing daily t
 
 ## Files
 
-*Workflow JSON files will be uploaded here after the project is completed.*
+- **[dailyhandoff.json](./dailyhandoff.json)** - The main n8n workflow file
+
+### Workflow Details
+
+The workflow includes the following integrations:
+
+- **GitHub** - Fetches repositories, issues, and pull requests
+- **Microsoft Outlook** - Retrieves calendar events and email messages
+- **Azure RSS Feed** - Monitors Azure release communications
+- **OpenAI** - Uses GPT-4.1-mini to summarize and prioritize daily items
+
+The workflow runs on a schedule trigger (default: 8 AM) and aggregates data from all sources, then uses an AI summarization chain to create a focused daily briefing with the most important items to address.
 
 ## Setup Instructions
 
 1. **Install n8n** - Follow the [Installation Guide](../../../docs/n8n-setup/installation.md)
 2. **Configure n8n** - See the [Configuration Guide](../../../docs/n8n-setup/configuration.md)
-3. **Import the workflow** - Once available, import the JSON file into your n8n instance
-4. **Configure credentials** - Add required API credentials for services used in the workflow
+3. **Import the workflow** - Import the `dailyhandoff.json` file into your n8n instance
+4. **Configure credentials** - Add the following API credentials:
+   - GitHub API (Personal Access Token)
+   - Microsoft Outlook OAuth2
+   - OpenAI API Key
 5. **Customize settings** - Adjust the workflow to match your team's needs
 
 ## How to Import
@@ -23,7 +37,7 @@ The Daily Handoff workflow automates the process of creating and sharing daily t
 1. Open n8n at `http://localhost:5678`
 2. Navigate to Workflows
 3. Click "Import from File"
-4. Select the workflow JSON file from this folder
+4. Select the `dailyhandoff.json` file from this folder
 5. Configure your credentials and settings
 
 ## Contributing
