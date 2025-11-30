@@ -15,7 +15,6 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 ├── code-samples/       # Reusable code snippets and examples
 ├── notes/              # Session notes and additional resources
 ├── docs/               # Detailed documentation and guides
-└── resources/          # External links, tools, and references
 ```
 
 ## 🚀 Getting Started
