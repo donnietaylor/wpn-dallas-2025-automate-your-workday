@@ -10,15 +10,15 @@ An iterated Spark app that uses multiple prompt iterations to help automate and 
 
 This app uses an iterative approach with multiple prompts. Each iteration refines the output.
 
-### Iteration 1
+### Iteration_1.md
+
+Initial Prompt
+
+### Iteration_2.md
 
 *Prompt to be added*
 
-### Iteration 2
-
-*Prompt to be added*
-
-### Iteration 3
+### Iteration_3.md
 
 *Prompt to be added*
 
