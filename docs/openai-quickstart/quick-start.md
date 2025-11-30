@@ -182,8 +182,8 @@ def automate_with_style(email_content, style="professional"):
 ## 📚 Learn More
 
 - [Setup Guide](setup-guide.md) - Detailed installation instructions
-- [Code Samples](../code-samples/) - More automation examples
-- [AI Services](../resources/ai-services.md) - Comparison of different AI platforms
-- [Best Practices](security-best-practices.md) - Security and reliability tips
+- [Code Samples](../../code-samples/) - More automation examples
+- [AI Services](../../resources/ai-services.md) - Comparison of different AI platforms
+- [n8n Setup](../n8n-setup/) - Install and configure n8n for workflow automation
 
 Ready to automate your workday? Let's build something amazing! 🚀
