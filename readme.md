@@ -14,6 +14,7 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 ├── demos/                    # Live demo apps
 │   ├── boss-request-buster/  # GitHub Spark app (single prompt)
 │   └── azure-boss-request-buster/  # GitHub Spark app (iterated)
+|   └── m365-copilot-facilitator/   # M365 Copilot Facilitator feature demo
 ├── code-samples/             # Reusable code snippets
 │   ├── python/               # Python examples
 │   ├── javascript/           # JavaScript examples
@@ -48,6 +49,7 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 ## Contributing
 
 This is a conference session repository. Feel free to:
+
 - Submit issues for questions or suggestions
 - Share your own automation examples
 - Improve existing code samples
@@ -57,10 +59,12 @@ This is a conference session repository. Feel free to:
 ### Session Presenters
 
 **Donnie Taylor**
+
 - [LinkedIn](https://www.linkedin.com/in/donnietaylor/)
 - [GitHub](https://github.com/donnietaylor)
 
 **Frank Lesniak**
+
 - [LinkedIn](https://www.linkedin.com/in/flesniak/)
 - [GitHub](https://github.com/franklesniak)
 
