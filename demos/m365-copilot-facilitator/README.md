@@ -16,9 +16,7 @@ This demo showcases the **Microsoft 365 Copilot Facilitator** feature, which pro
 
 Learn how to set up a meeting with Facilitator enabled from the start.
 
-[![Creating a meeting with Facilitator pre-enabled](https://img.youtube.com/vi/sy2SSWGTCRU/maxresdefault.jpg)](https://youtu.be/sy2SSWGTCRU)
-
-**[Watch on YouTube](https://youtu.be/sy2SSWGTCRU)**
+<a href="https://www.youtube.com/watch?v=sy2SSWGTCRU"><img src="https://img.youtube.com/vi/sy2SSWGTCRU/0.jpg"></a>
 
 ---
 
@@ -26,9 +24,7 @@ Learn how to set up a meeting with Facilitator enabled from the start.
 
 See Facilitator in action during a live meeting.
 
-[![Facilitator meeting experience](https://img.youtube.com/vi/Ya_4bUICPVw/maxresdefault.jpg)](https://youtu.be/Ya_4bUICPVw)
-
-**[Watch on YouTube](https://youtu.be/Ya_4bUICPVw)**
+<a href="https://www.youtube.com/watch?v=Ya_4bUICPVw"><img src="https://img.youtube.com/vi/Ya_4bUICPVw/0.jpg"></a>
 
 ---
 
@@ -44,9 +40,7 @@ See Facilitator in action during a live meeting.
 
 Explore how Facilitator automatically generates meeting notes and tracks action items.
 
-[![Facilitator meeting notes and action items experience](https://img.youtube.com/vi/7DwmR2Rv6BQ/maxresdefault.jpg)](https://youtu.be/7DwmR2Rv6BQ)
-
-**[Watch on YouTube](https://youtu.be/7DwmR2Rv6BQ)**
+<a href="https://www.youtube.com/watch?v=7DwmR2Rv6BQ"><img src="https://img.youtube.com/vi/7DwmR2Rv6BQ/0.jpg"></a>
 
 ---
 
