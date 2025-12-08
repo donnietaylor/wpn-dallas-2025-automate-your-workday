@@ -10,7 +10,7 @@ Learn how to leverage AI tools and automation to streamline your daily workflows
 
 ## Repository Structure
 
-```
+```text
 ├── demos/                    # Live demo apps
 │   ├── boss-request-buster/  # GitHub Spark app (single prompt)
 │   └── azure-boss-request-buster/  # GitHub Spark app (iterated)

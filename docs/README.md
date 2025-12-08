@@ -4,7 +4,7 @@ Guides for implementing AI automation in your workplace.
 
 ## Structure
 
-```
+```text
 ├── openai-quickstart/           # OpenAI API setup
 │   ├── quick-start.md           # 15-minute setup
 │   └── setup-guide.md           # Detailed configuration
@@ -18,10 +18,13 @@ Guides for implementing AI automation in your workplace.
 ## Guides
 
 ### [OpenAI Quickstart](openai-quickstart/)
+
 Get started with OpenAI API integration.
 
 ### [n8n Setup](n8n-setup/)
+
 Install and configure n8n for workflow automation.
 
 ### [GitHub Copilot](github-copilot/)
+
 Add custom instructions to improve Copilot suggestions.
