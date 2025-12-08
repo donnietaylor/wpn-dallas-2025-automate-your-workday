@@ -8,11 +8,14 @@ Live demonstration apps for the "Automate Your Workday with AI" session.
 ├── boss-request-buster/         # GitHub Spark app (single prompt)
 │   ├── README.md
 │   └── prompt.md
-└── azure-boss-request-buster/   # GitHub Spark app (iterated)
+├── azure-boss-request-buster/   # GitHub Spark app (iterated)
+│   ├── README.md
+│   ├── iteration_1.md
+│   ├── iteration_2.md
+│   └── iteration_3.md
+└── m365-copilot-facilitator/    # M365 Copilot Facilitator feature demo
     ├── README.md
-    ├── iteration_1.md
-    ├── iteration_2.md
-    └── iteration_3.md
+    └── facilitator-thats-a-wrap.png
 ```
 
 ## Available Demos
@@ -22,6 +25,9 @@ GitHub Spark app using a single comprehensive prompt. Transforms vague "boss req
 
 ### [Azure Boss Request Buster](./azure-boss-request-buster/)
 GitHub Spark app built through multiple prompt refinements. Shows how to evolve an AI-generated app through iterations for Azure administrators.
+
+### [M365 Copilot Facilitator](./m365-copilot-facilitator/)
+Demonstration of Microsoft 365 Copilot's Facilitator feature for AI-powered meeting assistance, note-taking, and action item tracking.
 
 ## Running Demos
 
