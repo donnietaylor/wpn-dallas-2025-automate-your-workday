@@ -49,6 +49,7 @@ Explore how Facilitator automatically generates meeting notes and tracks action 
 - **AI-Powered Note-Taking** - Automatic capture of meeting discussions and key points
 - **Action Item Tracking** - Identifies and assigns action items during meetings
 - **Meeting Summaries** - Generates comprehensive meeting summaries
+- **Missed Meeting Notifications** - Get notified if your name was mentioned in a meeting you missed, along with a summary of what was said about you
 - **Enhanced Collaboration** - Improves meeting productivity and follow-up
 
 ## Target Audience
