@@ -21,6 +21,7 @@ This is the "Automate Your Workday with AI" repository for the WorkPlace Ninja U
 - Include comprehensive error handling in all examples
 - Add inline comments explaining complex logic or AI-specific concepts
 - Follow the principle of keeping examples simple and educational
+- NO EMOJIS
 
 ### Python Code
 
